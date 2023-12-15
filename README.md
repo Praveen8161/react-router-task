@@ -2,6 +2,7 @@
 
 ## Library used
 - React + Vite
+- tailwind framework
 
 ## How it works
 - Using React Router it will render pages quickly
@@ -11,4 +12,4 @@
 `npm run dev`
 
 ## Live Site
--[Click Here](https://regal-otter-98ac56.netlify.app/)
+-[Click Here]([https://regal-otter-98ac56.netlify.app/](https://regal-otter-98ac56.netlify.app/)https://regal-otter-98ac56.netlify.app/)
