@@ -1,5 +1,6 @@
 # React Router
 
+React single page application that uses react router 
 ## Library used
 - React + Vite
 - tailwind framework
